@@ -1,0 +1,21 @@
+.users-item {
+  padding: 15px;
+  border: solid;
+  font-size: 1.8rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.colored {
+  color: #b3adad;
+}
+.users-item button,
+.add-user {
+  padding: 7px;
+  color: white;
+  font-size: 1.6rem;
+  border-radius: 7px;
+  background: red;
+  border: red;
+  cursor: pointer;
+}
